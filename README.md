@@ -140,7 +140,7 @@ AI-for-Intrusion-Detection-Systems/
 ## 👥 Author
 
 - **Nazeer Shaik**
-  - GitHub: [@Nazeershaik99](https://github.com/Nazeershaik99)
+  - GitHub: [@Jojitammisetty]((https://github.com/JojiTammisetty))
 
 ## 📜 License
 
@@ -158,4 +158,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please:
 - Create an issue in this repository
-- Contact me through GitHub [@Nazeershaik99](https://github.com/Nazeershaik99)
+- Contact me through GitHub [@Jojitammisetty]((https://github.com/JojiTammisetty))
